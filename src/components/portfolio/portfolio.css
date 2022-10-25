@@ -47,6 +47,7 @@ background:transparent
         grid-template-columns: 1fr 1fr;
         gap: 1.2rem;
     }
+   
     
 }
 
@@ -57,11 +58,12 @@ background:transparent
 @media screen  and (max-width: 600px){
 
     .portfolio__container{
-        grid-template-columns: 1fr;
+        grid-template-columns: 1fr ;
         gap: 1rem;
+        padding: 1rem;
     }
-    #portfolio{
-        height: 300vh ;
+    section{
+        height: 300vh !important;
     }
     
     

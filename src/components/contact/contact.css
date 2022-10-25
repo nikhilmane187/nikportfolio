@@ -60,5 +60,9 @@ input, textarea{
       margin: 1rem;
       width: var(--container-width-sm);
     }
+
+    #contact{
+        padding-top: 100px;
+    }
    
 }

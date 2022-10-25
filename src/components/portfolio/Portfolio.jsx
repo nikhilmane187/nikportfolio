@@ -44,36 +44,9 @@ const Portfolio = () => {
           <a href="https://nikhilmane187.github.io/devportfolio" className='btn btn-primary' target='_blank'>Live Project</a>
           </div>
         </article>
-        <article className='portfolio__item'>
-          <div className="portfolio__item-image">
-            <img src={IMG4} alt="" />
-          </div>
-          <h3>This is Portfolio Item Title</h3>
-          <div className="portfoili__item-cta">
-          <a href="https://github.com/nikhilmane187/Portfolio" className='btn' target='_blank'>Github</a>
-          <a href="https://nikhilmane187.github.io/devportfolio" className='btn btn-primary' target='_blank'>Live Project</a>
-          </div>
-        </article>
-        <article className='portfolio__item'>
-          <div className="portfolio__item-image">
-            <img src={IMG5} alt="" />
-          </div>
-          <h3>This is Portfolio Item Title</h3>
-          <div className="portfoili__item-cta">
-          <a href="https://github.com/nikhilmane187/Portfolio" className='btn' target='_blank'>Github</a>
-          <a href="https://nikhilmane187.github.io/devportfolio" className='btn btn-primary' target='_blank'>Live Project</a>
-          </div>
-        </article>
-        <article className='portfolio__item'>
-          <div className="portfolio__item-image">
-            <img src={IMG6} alt="" />
-          </div>
-          <h3>This is Portfolio Item Title</h3>
-          <div className="portfoili__item-cta">
-          <a href="https://github.com/nikhilmane187/Portfolio" className='btn' target='_blank'>Github</a>
-          <a href="https://nikhilmane187.github.io/devportfolio" className='btn btn-primary' target='_blank'>Live Project</a>
-          </div>
-        </article>
+    
+     
+      
 
 
       </div>
