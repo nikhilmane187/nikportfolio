@@ -18,8 +18,10 @@ const App = () => {
     <About/>      
     <Experience/>
     <Portfolio/>  
+    <div className='height'>
     <Contact/>
     <Footer/>
+    </div>
     </>
   )
 }

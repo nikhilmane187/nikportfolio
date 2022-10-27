@@ -43,7 +43,7 @@ const About = () => {
           </div>
 
           <p>
-            Innovative Front End Developer with 1+ years’ experience building and maintaining responsive websites in the recruiting industry. Proficient in HTML, CSS, jQuery, SQL, JavaScript, React Js and Angular, plus modern libraries and frameworks. Passionate about usability and possess working knowledge of Jira, Bit bucket & GitHub.
+            Innovative Software Developer with 1+ years’ experience building and maintaining responsive websites in the recruiting industry. Proficient in HTML, CSS, jQuery, SQL, JavaScript, React Js and Angular, plus modern libraries and frameworks. Passionate about usability and possess working knowledge of Jira, Bit bucket & GitHub.
           </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
 
