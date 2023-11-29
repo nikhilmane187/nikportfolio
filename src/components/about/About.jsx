@@ -43,7 +43,7 @@ const About = () => {
           </div>
 
           <p>
-            Innovative software developer with 2+ years of experience building and maintaining databases and websites in the software industry. Proficient in HTML, CSS, jQuery, SQL, JavaScript, postgres SQL, PL SQL, React Js, and Angular, plus modern libraries and frameworks. Passionate about usability and possess a working knowledge of Jira, Bitbucket & GitHub.
+            Innovative software developer with 2+ years of experience building and maintaining databases and websites in the software industry. Proficient in HTML, CSS, JavaScript, Postgres SQL, PL SQL, React Js, and Angular, plus modern libraries and frameworks. Passionate about usability and possess a working knowledge of Jira, Bitbucket & GitHub.
           </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
 
